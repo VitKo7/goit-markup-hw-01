@@ -1,2 +1,1 @@
-# goit-markup-hw-01
-to complete hw1
+# markup-01
